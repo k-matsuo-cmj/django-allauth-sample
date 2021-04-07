@@ -142,7 +142,7 @@ SITE_ID = 1
 
 # redirect url
 LOGIN_REDIRECT_URL = 'home'
-ACCOUNT_LOGOUT_RIDIRECT_URL = '/account/login/'
+ACCOUNT_LOGOUT_REDIRECT_URL = '/accounts/login/'
 
 # E-mail verfication
 ACCOUNT_EMAIL_VERIFICATION = 'mandatory'
